@@ -15,7 +15,7 @@
 | digisisu loomine | kuidas teha 3 d kujundeid ja kuidas 3 d printida |
 | digi turvalisus ja probleemi lahendus | oskan leida infot arvuti kohta ja kuidas kaitsta enda arvutit |
 
-kokkuvõtted loengutest mida saime teada
+kokkuvõtted loengutest mida oleme läbinud
 
 Üllatav ja õpetlik vaimse tervise päev
 7. oktoobril 2026 toimus meie koolis eriline vaimse tervise loeng, kuhu kogunes tervelt 100 noort. Meile tuli rääkima lektor Helar Peterson, kes võttis teema ette väga põhjalikult. Kogu üritus kestis kokku kolm 90-minutilist tundi, mis tähendas üsna pikka ja intensiivset päeva täis mõtteid, arutelusid ja uusi teadmisi.
