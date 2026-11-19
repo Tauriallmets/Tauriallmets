@@ -18,6 +18,7 @@
 kokkuvõtted loengutest mida oleme läbinud
 
 Üllatav ja õpetlik vaimse tervise päev
+
 7. oktoobril 2026 toimus meie koolis eriline vaimse tervise loeng, kuhu kogunes tervelt 100 noort. Meile tuli rääkima lektor Helar Peterson, kes võttis teema ette väga põhjalikult. Kogu üritus kestis kokku kolm 90-minutilist tundi, mis tähendas üsna pikka ja intensiivset päeva täis mõtteid, arutelusid ja uusi teadmisi.
 Päev algas põnevalt ja loovalt. Ühe esimese ülesandena saime luua endale täiesti suvalise väljamõeldud tegelase (characteri). See oli lahe viis, kuidas end argipäevast välja lülitada ja lasta fantaasial lennata. Läbi päeva räägiti meile hästi paljudest erinevatest vaimse tervise aspektidest – kuidas stressiga toime tulla, emotsioone mõista ja üksteist toetada.
 Kuigi teemad olid olulised, pean ausalt tunnistama, et minu jaoks kujunes see loeng lõpupoole veidi liiga pikaks. Kui oled juba tunde järjest istunud ja kuulanud, väsib aju paratamatult ära ning viimases tunnis hakkas juba natuke igav.
@@ -27,6 +28,7 @@ Kokkuvõttes oli see vaimse tervise päev parajalt pikk katsumus, kuid täis kas
 
 				 	
 Põnev ja tempokas kohtumine Psühhobussiga
+
 Meie koolipäeva tõi põnevat vaheldust Psühhobussi külastus, mis pakkus meile hoopis teistsugust ja praktilisemat vaatenurka psühholoogiale. Erinevalt tavalistest pikkadest loengutest oli see üritus üsna lühike ning täis aktiivset tegevust. Tänu kiirele tempole ja huvitavatele katsetele ei hakanud seal kordagi igav.
 Üks meeldejäävamaid hetki oli närviimpulsside test, kus saime oma reaktsioonikiiruse ise proovile panna. Pidime seisma reas ja üksteise õlgu pigistama nii kiiresti kui suutsime. Kuna ülesannet tehti aja peale, tekkis osalejate vahel tõeline hasart ja põnevus – kõik üritasid anda endast parima, et "närvisignaal" võimalikult kiiresti keti lõppu jõuaks.
 Lisaks füüsilisele reaktsioonitestile panime proovile ka oma vaimsed võimed, kui tegelesime sõnade meeldejätmisega. See ülesanne näitas hästi, kuidas meie mälu töötab ja milliseid nippe aju info salvestamiseks kasutab. Kuna kõik katsed ja mängud toimusid sõbralikus ning lõbusas õhkkonnas, möödus aeg lausa lennates. Psühhobuss tõestas suurepäraselt, et teadus ja inimaju uurimine võib olla üheaegselt nii õpetlik kui ka ülimalt meelelahutuslik.
@@ -34,4 +36,10 @@ Lisaks füüsilisele reaktsioonitestile panime proovile ka oma vaimsed võimed, 
 tutvustati Eesti tööturu seisundit ja tulevikutrende, kus keskmine brutopalk on 2243 eurot ja töötuse määr 5,4%. Suure murekohana toodi välja Läänemaa töötud noored, kellest tervelt 51,4%-l puudub erialane haridus.
 Tehisintellekti ja automaatika tõttu vähenevad kiiresti rutiinsed tegevused, nagu andmesisestus ja lihtsam kontoritöö. Samas kasvab vajadus analüüsi, planeerimise ning inimlikku empaatiat nõudvate ametite järele hariduses, tervishoius, IKT-s ja rohetehnoloogias.
 Tuleviku tööturul on peamisteks trumpideks digipädevus, loovus, kohanemisvõime ja kriitiline mõtlemine. Tööandjad ootavad noortelt kohusetunnet ja viisakust, ning karjääri alustamisel soovitatakse luua aus CV, mis kirjeldab põhjalikult ka praktikaid ja suviseid töökogemusi.
+
+Töötukassa loeng
+
+Esitlusest sai teada et tegemist oli Eesti Töötukassa karjäärinõustaja poolt läbi viidud töötoaga mis keskendus muutuvale töömaailmale ja tulevikuoskustele ning andis ülevaate tööturu hetkeseisust 2026 aasta sügisel kus Eesti keskmine brutopalk oli tõusnud 2243 euroni ja üldine töötuse määr oli 5,4 protsenti kuid Läänemaal oli registreeritud 111 töötut noort kellest enam kui pooltel puudus erialane haridus samuti selgus et automatiseerimine ja tehisintellekt kaotavad tulevikus rutiinsed ning korduvad tööülesanded muutes paljude ametite sisu mistõttu kasvab inimeste unikaalsete oskuste nagu empaatia suhtlemise ja eetiliste otsuste tegemise väärtus ning töökohtade arv suureneb eelkõige info ja kommunikatsioonitehnoloogia tervishoiu hariduse ning rohetehnoloogia valdkondades kusjuures tööandjad ootavad noortelt kandidaatidelt ennekõike head suhtumist kohusetunnet realistlikku palgaootust digipädevust ja valmisolekut pidevaks õppimiseks ning kandideerimisel soovitati noortel oma CV-s julgelt välja tuua kooliväliseid tegevusi ja hobisid kasutades oskuste analüüsimiseks spetsiaalset veebikeskkonda Oskuste Kompass
+
+
 
